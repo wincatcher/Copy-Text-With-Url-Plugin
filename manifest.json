@@ -3,6 +3,12 @@
     "name": "Copy Text with URL",
     "version": "1.0",
     "description": "Copy selected text and append the URL of the page.",
+    "author": "风巢森淼",
+      "homepage_url": "https://mlink.cc/wincatcher",
+      "developer": {
+        "name": "风巢森淼",
+        "url": "https://mlink.cc/wincatcher"
+      },
     "permissions": [
       "contextMenus",
       "activeTab",
