@@ -24,6 +24,17 @@
 2. 右键点击并选择“复制文本并附带网址”。
 3. 文本和网址将被复制到剪贴板。
 
+4. ## 开发者信息
+
+- **姓名**: 风巢森淼（wincatcher）
+- **主页**: [个人页面](https://mlink.cc/wincatcher)
+- **GitHub**: [github.com/wincatcher](https://github.com/wincatcher)
+
+## 其他项目
+
+- [精选小报童专栏导航站](https://xiaobaot.top/) - 一个专门收集和整理小报童优质专栏的导航网站。
+
+
 ## 开源许可证
 
 此项目使用MIT许可证，详情请参阅 [LICENSE](./LICENSE) 文件。
